@@ -18,6 +18,7 @@
 	<Item Name="private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Action.ctl" Type="VI" URL="../Action.ctl"/>
+		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">
 		<Item Name="Close.vi" Type="VI" URL="../Close.vi"/>
@@ -25,6 +26,5 @@
 		<Item Name="Get Column Info.vi" Type="VI" URL="../Get Column Info.vi"/>
 		<Item Name="Init.vi" Type="VI" URL="../Init.vi"/>
 		<Item Name="List Tables.vi" Type="VI" URL="../List Tables.vi"/>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	</Item>
 </Library>
