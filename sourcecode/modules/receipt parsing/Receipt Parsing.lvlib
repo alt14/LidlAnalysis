@@ -23,5 +23,6 @@
 		<Item Name="Close.vi" Type="VI" URL="../Close.vi"/>
 		<Item Name="Init.vi" Type="VI" URL="../Init.vi"/>
 		<Item Name="Read Image Text.vi" Type="VI" URL="../Read Image Text.vi"/>
+		<Item Name="Text Get Sections.vi" Type="VI" URL="../Text Get Sections.vi"/>
 	</Item>
 </Library>
