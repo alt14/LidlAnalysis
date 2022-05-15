@@ -15,6 +15,7 @@
 		<Item Name="DEV Check Column Clusters.vi" Type="VI" URL="../dev/DEV Check Column Clusters.vi"/>
 		<Item Name="DEV connect to DB and get some data.vi" Type="VI" URL="../dev/DEV connect to DB and get some data.vi"/>
 		<Item Name="DEV example.vi" Type="VI" URL="../dev/DEV example.vi"/>
+		<Item Name="DEV INSERT.vi" Type="VI" URL="../dev/DEV INSERT.vi"/>
 		<Item Name="DEV testing Action Engine not wrapped.vi" Type="VI" URL="../dev/DEV testing Action Engine not wrapped.vi"/>
 	</Item>
 	<Item Name="private" Type="Folder">
@@ -32,5 +33,8 @@
 		<Item Name="Items--cluster.ctl" Type="VI" URL="../Items--cluster.ctl"/>
 		<Item Name="Purchased_Items--cluster.ctl" Type="VI" URL="../Purchased_Items--cluster.ctl"/>
 		<Item Name="Visits--cluster.ctl" Type="VI" URL="../Visits--cluster.ctl"/>
+	</Item>
+	<Item Name="Get Cluster Items and Values.vi" Type="VI" URL="../Get Cluster Items and Values.vi">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 </Library>
