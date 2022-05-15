@@ -11,6 +11,8 @@
 </Property>
 	<Item Name="DEV" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="DEV - check cluster matches database cols.vi" Type="VI" URL="../dev/DEV - check cluster matches database cols.vi"/>
+		<Item Name="DEV Check Column Clusters.vi" Type="VI" URL="../dev/DEV Check Column Clusters.vi"/>
 		<Item Name="DEV connect to DB and get some data.vi" Type="VI" URL="../dev/DEV connect to DB and get some data.vi"/>
 		<Item Name="DEV example.vi" Type="VI" URL="../dev/DEV example.vi"/>
 		<Item Name="DEV testing Action Engine not wrapped.vi" Type="VI" URL="../dev/DEV testing Action Engine not wrapped.vi"/>
@@ -21,10 +23,14 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Close.vi" Type="VI" URL="../Close.vi"/>
 		<Item Name="Execute Query.vi" Type="VI" URL="../Execute Query.vi"/>
 		<Item Name="Get Column Info.vi" Type="VI" URL="../Get Column Info.vi"/>
 		<Item Name="Init.vi" Type="VI" URL="../Init.vi"/>
 		<Item Name="List Tables.vi" Type="VI" URL="../List Tables.vi"/>
+		<Item Name="Items--cluster.ctl" Type="VI" URL="../Items--cluster.ctl"/>
+		<Item Name="Purchased_Items--cluster.ctl" Type="VI" URL="../Purchased_Items--cluster.ctl"/>
+		<Item Name="Visits--cluster.ctl" Type="VI" URL="../Visits--cluster.ctl"/>
 	</Item>
 </Library>
