@@ -24,6 +24,7 @@
 		<Item Name="Draw ROIs.vi" Type="VI" URL="../Draw ROIs.vi"/>
 		<Item Name="Find Linespaces.vi" Type="VI" URL="../Find Linespaces.vi"/>
 		<Item Name="Get Image Size (Pixels).vi" Type="VI" URL="../Get Image Size (Pixels).vi"/>
+		<Item Name="Open Image in Default Program.vi" Type="VI" URL="../Open Image in Default Program.vi"/>
 		<Item Name="Read Image.vi" Type="VI" URL="../Read Image.vi"/>
 	</Item>
 </Library>

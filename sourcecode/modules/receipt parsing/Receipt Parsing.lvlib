@@ -18,10 +18,14 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Action.ctl" Type="VI" URL="../Action.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="OCR Tool Dialogue.vi" Type="VI" URL="../../../../resources/receiptImages/OCR Tool Dialogue.vi"/>
+		<Item Name="OCR Training Tool.vi" Type="VI" URL="../OCR Training Tool.vi"/>
+		<Item Name="String to int.vi" Type="VI" URL="../String to int.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">
 		<Item Name="Close.vi" Type="VI" URL="../Close.vi"/>
 		<Item Name="Init.vi" Type="VI" URL="../Init.vi"/>
+		<Item Name="Parse DateTime.vi" Type="VI" URL="../Parse DateTime.vi"/>
 		<Item Name="Read Image Text.vi" Type="VI" URL="../Read Image Text.vi"/>
 		<Item Name="Text Get Sections.vi" Type="VI" URL="../Text Get Sections.vi"/>
 	</Item>
