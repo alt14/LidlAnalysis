@@ -21,6 +21,7 @@
 	<Item Name="private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Action.ctl" Type="VI" URL="../Action.ctl"/>
+		<Item Name="Get Cluster Items and Values.vi" Type="VI" URL="../Get Cluster Items and Values.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">
@@ -33,8 +34,5 @@
 		<Item Name="Items--cluster.ctl" Type="VI" URL="../Items--cluster.ctl"/>
 		<Item Name="Purchased_Items--cluster.ctl" Type="VI" URL="../Purchased_Items--cluster.ctl"/>
 		<Item Name="Visits--cluster.ctl" Type="VI" URL="../Visits--cluster.ctl"/>
-	</Item>
-	<Item Name="Get Cluster Items and Values.vi" Type="VI" URL="../Get Cluster Items and Values.vi">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 </Library>
