@@ -17,26 +17,25 @@
 	<Item Name="private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Action.ctl" Type="VI" URL="../Action.ctl"/>
+		<Item Name="Concatenate String Array.vi" Type="VI" URL="../Concatenate String Array.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="OCR Tool Dialogue.vi" Type="VI" URL="../../../../resources/receiptImages/OCR Tool Dialogue.vi"/>
 		<Item Name="OCR Training Tool.vi" Type="VI" URL="../OCR Training Tool.vi"/>
+		<Item Name="String to dbl.vi" Type="VI" URL="../../main/String to dbl.vi"/>
 		<Item Name="String to int.vi" Type="VI" URL="../String to int.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">
 		<Item Name="Close.vi" Type="VI" URL="../Close.vi"/>
 		<Item Name="Init.vi" Type="VI" URL="../Init.vi"/>
 		<Item Name="Line Number.ctl" Type="VI" URL="../Line Number.ctl"/>
-		<Item Name="Parse DateTime.vi" Type="VI" URL="../Parse DateTime.vi"/>
-		<Item Name="Parse Footer.vi" Type="VI" URL="../Parse Footer.vi"/>
-		<Item Name="Parse Header.vi" Type="VI" URL="../Parse Header.vi"/>
-		<Item Name="Parse Main Body.vi" Type="VI" URL="../../main/Parse Main Body.vi"/>
 		<Item Name="Read Image Text.vi" Type="VI" URL="../Read Image Text.vi"/>
-		<Item Name="ReceiptItemInfo.ctl" Type="VI" URL="../../main/ReceiptItemInfo.ctl"/>
-		<Item Name="Text Get Sections.vi" Type="VI" URL="../Text Get Sections.vi"/>
 	</Item>
-	<Item Name="Concatenate String Array.vi" Type="VI" URL="../Concatenate String Array.vi"/>
 	<Item Name="Dialogue - Correct TimeStamp.vi" Type="VI" URL="../Dialogue - Correct TimeStamp.vi"/>
-	<Item Name="Parse Main Body2.vi" Type="VI" URL="../../main/Parse Main Body2.vi"/>
-	<Item Name="String to dbl.vi" Type="VI" URL="../../main/String to dbl.vi"/>
+	<Item Name="Parse DateTime.vi" Type="VI" URL="../Parse DateTime.vi"/>
+	<Item Name="Parse Footer.vi" Type="VI" URL="../Parse Footer.vi"/>
+	<Item Name="Parse Header.vi" Type="VI" URL="../Parse Header.vi"/>
+	<Item Name="Parse Main Body.vi" Type="VI" URL="../../main/Parse Main Body.vi"/>
+	<Item Name="ReceiptItemInfo.ctl" Type="VI" URL="../../main/ReceiptItemInfo.ctl"/>
+	<Item Name="Text Get Sections.vi" Type="VI" URL="../Text Get Sections.vi"/>
 	<Item Name="Text Sections Get Pixel Number.vi" Type="VI" URL="../Text Sections Get Pixel Number.vi"/>
 </Library>

@@ -16,6 +16,7 @@
 			<Item Name="Receipt Parsing.lvlib" Type="Library" URL="../modules/receipt parsing/Receipt Parsing.lvlib"/>
 		</Item>
 		<Item Name="Main.lvlib" Type="Library" URL="../modules/main/Main.lvlib"/>
+		<Item Name="ROI Info--cluster.ctl" Type="VI" URL="../modules/image management/ROI Info--cluster.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Array Size(s)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array Size(s)__ogtk.vi"/>

@@ -15,13 +15,14 @@
 	<Item Name="private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Action.ctl" Type="VI" URL="../Action.ctl"/>
+		<Item Name="Draw ROI SubVI.vi" Type="VI" URL="../Draw ROI SubVI.vi"/>
 		<Item Name="Find Positive Transitions.vi" Type="VI" URL="../Find Positive Transitions.vi"/>
 		<Item Name="Get Start of Whitespace Pixel Number.vi" Type="VI" URL="../Get Start of Whitespace Pixel Number.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">
 		<Item Name="Close Image.vi" Type="VI" URL="../Close Image.vi"/>
-		<Item Name="Draw ROIs.vi" Type="VI" URL="../Draw ROIs.vi"/>
+		<Item Name="Draw ROI.vi" Type="VI" URL="../Draw ROI.vi"/>
 		<Item Name="Find Linespaces.vi" Type="VI" URL="../Find Linespaces.vi"/>
 		<Item Name="Get Image Size (Pixels).vi" Type="VI" URL="../Get Image Size (Pixels).vi"/>
 		<Item Name="Open Image in Default Program.vi" Type="VI" URL="../Open Image in Default Program.vi"/>
