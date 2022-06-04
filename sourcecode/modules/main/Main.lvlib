@@ -13,7 +13,10 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Collate Provisional Visit Data.vi" Type="VI" URL="../Collate Provisional Visit Data.vi"/>
 		<Item Name="Correction Dialogue.vi" Type="VI" URL="../Correction Dialogue.vi"/>
+		<Item Name="DBL to String (0dp).vi" Type="VI" URL="../DBL to String (0dp).vi"/>
+		<Item Name="DBL to String (3dp).vi" Type="VI" URL="../DBL to String (3dp).vi"/>
 		<Item Name="DBL to String.vi" Type="VI" URL="../DBL to String.vi"/>
+		<Item Name="Footer Correction Dialogue.vi" Type="VI" URL="../Footer Correction Dialogue.vi"/>
 		<Item Name="Int to string.vi" Type="VI" URL="../Int to string.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>

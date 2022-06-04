@@ -42,6 +42,7 @@
 		<Item Name="Text Get Section Info.vi" Type="VI" URL="../Text Get Section Info.vi"/>
 		<Item Name="Sections Get Data.vi" Type="VI" URL="../Sections Get Data.vi"/>
 	</Item>
+	<Item Name="dev fix timestamp DELETEME.vi" Type="VI" URL="../dev fix timestamp DELETEME.vi"/>
 	<Item Name="Dialogue - Correct TimeStamp.vi" Type="VI" URL="../Dialogue - Correct TimeStamp.vi"/>
 	<Item Name="Parse DateTime.vi" Type="VI" URL="../Parse DateTime.vi"/>
 	<Item Name="ReceiptItemInfo.ctl" Type="VI" URL="../../main/ReceiptItemInfo.ctl"/>
