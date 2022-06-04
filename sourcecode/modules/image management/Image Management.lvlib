@@ -19,14 +19,17 @@
 		<Item Name="Find Positive Transitions.vi" Type="VI" URL="../Find Positive Transitions.vi"/>
 		<Item Name="Get Start of Whitespace Pixel Number.vi" Type="VI" URL="../Get Start of Whitespace Pixel Number.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Make Section Images SubVI.vi" Type="VI" URL="../Make Section Images SubVI.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">
 		<Item Name="Close Image.vi" Type="VI" URL="../Close Image.vi"/>
 		<Item Name="Draw ROI.vi" Type="VI" URL="../Draw ROI.vi"/>
 		<Item Name="Find Linespaces.vi" Type="VI" URL="../Find Linespaces.vi"/>
 		<Item Name="Get Image Size (Pixels).vi" Type="VI" URL="../Get Image Size (Pixels).vi"/>
+		<Item Name="Make Section Images.vi" Type="VI" URL="../Make Section Images.vi"/>
 		<Item Name="Open Image in Default Program.vi" Type="VI" URL="../Open Image in Default Program.vi"/>
 		<Item Name="Output Image Path.vi" Type="VI" URL="../Output Image Path.vi"/>
 		<Item Name="Read Image.vi" Type="VI" URL="../Read Image.vi"/>
+		<Item Name="ROI Info--cluster.ctl" Type="VI" URL="../ROI Info--cluster.ctl"/>
 	</Item>
 </Library>
