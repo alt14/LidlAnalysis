@@ -19,15 +19,15 @@
 		<Item Name="Action.ctl" Type="VI" URL="../Action.ctl"/>
 		<Item Name="Concatenate String Array.vi" Type="VI" URL="../Concatenate String Array.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="OCR Tool Dialogue.vi" Type="VI" URL="../../../../resources/receiptImages/OCR Tool Dialogue.vi"/>
+		<Item Name="OCR Tool Dialogue.vi" Type="VI" URL="../OCR Tool Dialogue.vi"/>
 		<Item Name="OCR Training Tool.vi" Type="VI" URL="../OCR Training Tool.vi"/>
 		<Item Name="Parse Footer.vi" Type="VI" URL="../Parse Footer.vi"/>
 		<Item Name="Parse Header.vi" Type="VI" URL="../Parse Header.vi"/>
-		<Item Name="Parse Main Body.vi" Type="VI" URL="../../main/Parse Main Body.vi"/>
+		<Item Name="Parse Main Body.vi" Type="VI" URL="../Parse Main Body.vi"/>
 		<Item Name="Provisional Parsed Values--cluster.ctl" Type="VI" URL="../Provisional Parsed Values--cluster.ctl"/>
 		<Item Name="Store Section Bounds Info.vi" Type="VI" URL="../Store Section Bounds Info.vi"/>
 		<Item Name="Store Section Text.vi" Type="VI" URL="../Store Section Text.vi"/>
-		<Item Name="String to dbl.vi" Type="VI" URL="../../main/String to dbl.vi"/>
+		<Item Name="String to dbl.vi" Type="VI" URL="../String to dbl.vi"/>
 		<Item Name="String to int.vi" Type="VI" URL="../String to int.vi"/>
 		<Item Name="Text Get Sections.vi" Type="VI" URL="../Text Get Sections.vi"/>
 		<Item Name="Text Sections Get Pixel Number.vi" Type="VI" URL="../Text Sections Get Pixel Number.vi"/>
@@ -38,6 +38,7 @@
 		<Item Name="Init.vi" Type="VI" URL="../Init.vi"/>
 		<Item Name="Section Info--cluster.ctl" Type="VI" URL="../Section Info--cluster.ctl"/>
 		<Item Name="Line Number.ctl" Type="VI" URL="../Line Number.ctl"/>
+		<Item Name="ReceiptItemInfo.ctl" Type="VI" URL="../ReceiptItemInfo.ctl"/>
 		<Item Name="Read Image Text.vi" Type="VI" URL="../Read Image Text.vi"/>
 		<Item Name="Text Get Section Info.vi" Type="VI" URL="../Text Get Section Info.vi"/>
 		<Item Name="Sections Get Data.vi" Type="VI" URL="../Sections Get Data.vi"/>
@@ -45,5 +46,4 @@
 	<Item Name="dev fix timestamp DELETEME.vi" Type="VI" URL="../dev fix timestamp DELETEME.vi"/>
 	<Item Name="Dialogue - Correct TimeStamp.vi" Type="VI" URL="../Dialogue - Correct TimeStamp.vi"/>
 	<Item Name="Parse DateTime.vi" Type="VI" URL="../Parse DateTime.vi"/>
-	<Item Name="ReceiptItemInfo.ctl" Type="VI" URL="../../main/ReceiptItemInfo.ctl"/>
 </Library>

@@ -18,6 +18,8 @@
 		<Item Name="DBL to String.vi" Type="VI" URL="../DBL to String.vi"/>
 		<Item Name="Footer Correction Dialogue.vi" Type="VI" URL="../Footer Correction Dialogue.vi"/>
 		<Item Name="Int to string.vi" Type="VI" URL="../Int to string.vi"/>
+		<Item Name="String to dbl1.vi" Type="VI" URL="../String to dbl1.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+	<Item Name="Process Line Items WIP.vi" Type="VI" URL="../Process Line Items WIP.vi"/>
 </Library>
