@@ -20,6 +20,6 @@
 		<Item Name="Int to string.vi" Type="VI" URL="../Int to string.vi"/>
 		<Item Name="String to dbl1.vi" Type="VI" URL="../String to dbl1.vi"/>
 	</Item>
+	<Item Name="Check if Date Matches File Name.vi" Type="VI" URL="../Check if Date Matches File Name.vi"/>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-	<Item Name="Process Line Items WIP.vi" Type="VI" URL="../Process Line Items WIP.vi"/>
 </Library>
