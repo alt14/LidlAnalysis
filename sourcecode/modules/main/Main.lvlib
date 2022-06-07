@@ -11,15 +11,16 @@
 </Property>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Check if Date Matches File Name.vi" Type="VI" URL="../Check if Date Matches File Name.vi"/>
 		<Item Name="Collate Provisional Visit Data.vi" Type="VI" URL="../Collate Provisional Visit Data.vi"/>
 		<Item Name="Correction Dialogue.vi" Type="VI" URL="../Correction Dialogue.vi"/>
 		<Item Name="DBL to String (0dp).vi" Type="VI" URL="../DBL to String (0dp).vi"/>
 		<Item Name="DBL to String (3dp).vi" Type="VI" URL="../DBL to String (3dp).vi"/>
 		<Item Name="DBL to String.vi" Type="VI" URL="../DBL to String.vi"/>
 		<Item Name="Footer Correction Dialogue.vi" Type="VI" URL="../Footer Correction Dialogue.vi"/>
+		<Item Name="Format Purchased Items.vi" Type="VI" URL="../Format Purchased Items.vi"/>
 		<Item Name="Int to string.vi" Type="VI" URL="../Int to string.vi"/>
-		<Item Name="String to dbl1.vi" Type="VI" URL="../String to dbl1.vi"/>
+		<Item Name="String to dbl.vi" Type="VI" URL="../String to dbl.vi"/>
 	</Item>
-	<Item Name="Check if Date Matches File Name.vi" Type="VI" URL="../Check if Date Matches File Name.vi"/>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>

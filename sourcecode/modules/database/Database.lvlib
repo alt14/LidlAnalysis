@@ -13,15 +13,18 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="DEV - check cluster matches database cols.vi" Type="VI" URL="../dev/DEV - check cluster matches database cols.vi"/>
 		<Item Name="DEV Check Column Clusters.vi" Type="VI" URL="../dev/DEV Check Column Clusters.vi"/>
+		<Item Name="DEV Check If File Already In Database.vi" Type="VI" URL="../dev/DEV Check If File Already In Database.vi"/>
 		<Item Name="DEV connect to DB and get some data.vi" Type="VI" URL="../dev/DEV connect to DB and get some data.vi"/>
 		<Item Name="DEV example.vi" Type="VI" URL="../dev/DEV example.vi"/>
 		<Item Name="DEV INSERT.vi" Type="VI" URL="../dev/DEV INSERT.vi"/>
+		<Item Name="DEV Select bad.vi" Type="VI" URL="../dev/DEV Select bad.vi"/>
 		<Item Name="DEV testing Action Engine not wrapped.vi" Type="VI" URL="../dev/DEV testing Action Engine not wrapped.vi"/>
 	</Item>
 	<Item Name="private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Action.ctl" Type="VI" URL="../Action.ctl"/>
 		<Item Name="Get Cluster Items and Values.vi" Type="VI" URL="../Get Cluster Items and Values.vi"/>
+		<Item Name="Insert.vi" Type="VI" URL="../Insert.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">
@@ -31,6 +34,9 @@
 		<Item Name="Get Column Info.vi" Type="VI" URL="../Get Column Info.vi"/>
 		<Item Name="Init.vi" Type="VI" URL="../Init.vi"/>
 		<Item Name="List Tables.vi" Type="VI" URL="../List Tables.vi"/>
+		<Item Name="Insert purchased_items.vi" Type="VI" URL="../Insert purchased_items.vi"/>
+		<Item Name="Insert visits.vi" Type="VI" URL="../Insert visits.vi"/>
+		<Item Name="Check If File Already In Database.vi" Type="VI" URL="../Check If File Already In Database.vi"/>
 		<Item Name="Items--cluster.ctl" Type="VI" URL="../Items--cluster.ctl"/>
 		<Item Name="Purchased_Items--cluster.ctl" Type="VI" URL="../Purchased_Items--cluster.ctl"/>
 		<Item Name="Visits--cluster.ctl" Type="VI" URL="../Visits--cluster.ctl"/>
