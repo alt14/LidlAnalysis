@@ -1,0 +1,40 @@
+<body>
+<div id="chart_div" style="width: 800px; height:300px;"></div>
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script  type="text/javascript">
+/*<![CDATA[*/
+
+const urlParams = new URLSearchParams(window.location.search);
+const itemName = urlParams.get('itemName');
+console.log(itemName);
+
+google.load('visualization', '1', {packages: ['corechart']});
+google.setOnLoadCallback(drawChart);
+
+ function drawChart() {
+   var jsonData = $.ajax({
+		url: "data_item_nodiscount.php",
+		dataType: "json",
+		async: false,
+		data: { 'ItemName' : itemName }
+	}).responseText;
+	
+	var data = new google.visualization.DataTable(jsonData);
+
+	var options = {
+		title: 'Price of Lidl ' + itemName + ' Over Time',
+		hAxis: {title: 'Date of Purchase'},
+		vAxis: {title: 'Price  \u00A3', format:'\u00A3###,###,##0.00'} //, format: 'currency'
+	};
+
+	var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
+	chart.draw(data, options);
+}
+
+
+
+/*]]>*/
+</script>
+</body> 
